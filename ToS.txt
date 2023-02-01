@@ -1,0 +1,52 @@
+Terms of Service Agreement
+
+Welcome to Arato, the lone working safety app (the "App"). By accessing or using the App, you agree to be bound by the terms and conditions set forth in this Agreement (the "Terms of Service"). If you do not agree to the Terms of Service, you may not access or use the App.
+
+Service Description
+The App is a lone working safety tool that allows users to easily check in and out of their working locations and to request assistance in the event of an emergency. The App includes a variety of features, such as location tracking, emergency alerts, and notifications.
+
+Eligibility
+You must be at least 18 years of age to access and use the App. By accessing and using the App, you represent and warrant that you are at least 18 years of age and that you have the right, authority, and capacity to enter into this Agreement and to abide by all of the terms and conditions set forth in this Agreement.
+
+Use of the App
+You agree to use the App only for lawful purposes and in compliance with all applicable laws and regulations in the United Kingdom and any other jurisdiction from which you access or use the App. You agree not to use the App:
+
+* In any way that violates any applicable federal, state, local, or international law or regulation.
+* For the transmission of "junk mail," "chain letters," or unsolicited mass mailing or "spamming."
+* To impersonate or attempt to impersonate Arato, an Arato employee, another user, or any other person or entity.
+* To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the App, or which, as determined by Arato, may harm Arato or users of the App or expose them to liability.
+
+User Data and Privacy
+Arato respects your privacy and is committed to protecting your personal information. By accessing or using the App, you agree to Arato's Privacy Policy which is available on Arato's website.
+
+Intellectual Property
+The App and all content and materials included on the App, including, but not limited to, text, graphics, logos, images, and software, are the property of Arato or its licensors and are protected by copyright and trademark laws in the United Kingdom. You agree not to use any content or materials on the App for any commercial purpose without the express written consent of Arato.
+
+Disclaimer of Warranties
+The App and all content and materials included on the App are provided on an "as is" and "as available" basis. Arato makes no representations or warranties of any kind, express or implied, as to the operation of the App or the information, content, materials, or products included on the App. Arato does not warrant that the App or any of its functions will be uninterrupted or error-free, and Arato will not be liable for any interruptions or errors.
+
+Limitation of Liability
+Arato will not be liable for any damages of any kind arising from the use of the App, including, but not limited to, direct, indirect, incidental, punitive, and consequential damages.
+
+Disputes
+Any dispute arising out of or relating to this Agreement or the App will be resolved through binding arbitration in accordance with the laws and regulations of the United Kingdom.
+
+Changes to the Terms of Service
+Arato reserves the right to make changes to the Terms of Service at any time. Such changes will be effective immediately upon posting on the App or the website. Your continued use of the App following the posting of changes to the Terms of Service constitutes your acceptance of such changes.
+
+Governing Law
+This Agreement and your use of the App shall be governed by and construed in accordance with the laws of the United Kingdom, without giving effect to any principles of conflicts of law.
+
+Contact Information
+If you have any questions about this Agreement or the App, please contact Arato at [insert contact information].
+
+Entire Agreement
+This Agreement constitutes the entire agreement between you and Arato regarding your use of the App. Any prior agreements, whether written or oral, are superseded by this Agreement.
+
+Severability
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall be enforced to the fullest extent possible and the remaining provisions shall remain in full force and effect.
+
+Waiver
+The failure of Arato to enforce any right or provision of this Agreement shall not be deemed a waiver of such right or provision unless acknowledged and agreed to by us in writing.
+
+This Agreement constitutes the entire agreement between you and Arato regarding the use of the App. By using the App, you confirm that you accept this agreement and that you agree to comply with all its terms."
