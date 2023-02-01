@@ -1,0 +1,58 @@
+Privacy Policy
+
+This privacy policy ("Policy") describes how Arato (the "App") collects, uses, and shares personal information of users who download and use the App. By using the App, you agree to the collection and use of your personal information in accordance with this Policy.
+
+Collection and Use of Personal Information
+
+The App may collect and use personal information, including but not limited to:
+
+* Email address, used to create and verify your account
+* Location data, used to improve the app's services and provide you with location-based features
+* Profile information, used to personalize your experience and display your name or other information on your profile
+* Usage data, including but not limited to, the pages you have visited, the amount of time you have spent on the App, and the frequency of your visits to the App.
+
+We may use your personal information to:
+
+* Provide you with the services and features offered through the App
+* Improve the App and develop new features and services
+* Send you updates, announcements, and other information related to the App
+* Conduct research and analysis to improve the App
+* Monitor and analyze usage and trends to improve the App
+* Respond to your comments, questions, and requests and provide customer service
+
+Legal Basis for Processing Personal Data The legal basis for collecting and using the personal information described in this Policy will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will collect and use personal information from you only where:
+
+* We have your consent to do so
+* We need the personal information to perform a contract with you
+* We need to comply with a legal obligation
+* It is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+Sharing of Personal Information
+
+We may share your personal information with:
+
+* Service providers and partners who perform services on our behalf
+* Compliance with legal and regulatory obligations
+* As otherwise consented to by you
+
+Data Retention 
+
+We will retain your personal information only for as long as is necessary for the purposes set out in this Policy. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Security
+
+We take the security of your personal information seriously. We have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmitting information over the internet or storing information is completely secure.
+
+Accessing and Updating Your Personal Information
+
+You have the right to access, correct, or delete your personal information. You also have the right to data portability, the right to restrict processing of your personal data, and the right to object to processing of your personal data. You can do this by logging into your account settings and making the necessary changes or by contacting us at privacy@arato.co.uk.
+
+Changes to This Privacy Policy
+
+We may update this policy from time to time. We will notify you of any changes by posting the new policy on the App. You are advised to review this policy periodically for any changes.
+
+Contact Us
+
+If you have any questions about this Policy, please contact us at privacy@arato.co.uk.
